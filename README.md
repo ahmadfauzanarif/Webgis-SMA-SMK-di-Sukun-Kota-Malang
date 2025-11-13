@@ -1,3 +1,4 @@
+<img width="1917" height="1076" alt="image" src="https://github.com/user-attachments/assets/d23f7a5c-87e6-4ecb-b2a1-fb4cfd70f2d2" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6638f56e-0e26-4581-992a-4ba46d1a684d" />
 # 🗺️ Peta Tematik Persebaran Sekolah SMA/SMK di Kecamatan Klojen
 
