@@ -1,3 +1,5 @@
+![Uploading image.png…]()
+
 # 🗺️ Peta Tematik Persebaran Sekolah SMA/SMK di Kecamatan Klojen
 
 Peta ini menampilkan **persebaran sekolah jenjang SMA dan SMK di Kecamatan Klojen, Kota Malang**.  
