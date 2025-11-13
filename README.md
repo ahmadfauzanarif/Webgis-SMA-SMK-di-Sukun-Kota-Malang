@@ -1,5 +1,4 @@
-![Uploading image.png…]()
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6638f56e-0e26-4581-992a-4ba46d1a684d" />
 # 🗺️ Peta Tematik Persebaran Sekolah SMA/SMK di Kecamatan Klojen
 
 Peta ini menampilkan **persebaran sekolah jenjang SMA dan SMK di Kecamatan Klojen, Kota Malang**.  
